@@ -1,5 +1,5 @@
 ## Hi hehe 😊
-💻...I’m currently working on a Finance Automation using Python\ 
+💻...I’m currently working on a Finance Automation using Python  
 💚💛💛Fun fact: There are a lot of things I'd like to learn and try these days and one of them is knitting hehe 
 
 **Princess Merida:**
