@@ -7,5 +7,5 @@
 
 
 <a>
-  <img width="90%" src="https://user-images.githubusercontent.com/63581688/97962952-10d0c600-1e1b-11eb-9b1e-fbbad1be9037.GIF">
+  <img width="100%" src="https://user-images.githubusercontent.com/63581688/97962952-10d0c600-1e1b-11eb-9b1e-fbbad1be9037.GIF">
 </a>
