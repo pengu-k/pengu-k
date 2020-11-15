@@ -1,5 +1,5 @@
 ## Hi hehe 😊
-💻...
+💻...  
 💚💛💛Fun fact: There are a lot of things I'd like to learn and try these days hehe
 
 **Princess Merida:**
