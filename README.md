@@ -1,4 +1,4 @@
-## Hi hehe 😊
+## Hi 😊  
 💻...  currently still working on automate finance and eccomerce website  
 💚💛💛: There are a lot of things I'd like to learn and try these days hehe
 
