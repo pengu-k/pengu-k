@@ -1,6 +1,6 @@
 ## Hi hehe 😊
-💻...  
-💚💛💛Fun fact: There are a lot of things I'd like to learn and try these days hehe
+💻...  currently still working on automate finance and eccomerce website
+💚💛💛: There are a lot of things I'd like to learn and try these days hehe
 
 **Princess Merida:**
 > My mother... the Queen, feels... in her heart, that I... that we be free to... write our own story. Follow... our... hearts. And find love in our own time
