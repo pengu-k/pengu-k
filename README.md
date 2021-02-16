@@ -1,5 +1,5 @@
 ## Hi i'm krez😊
-💻...  currently working on eccomerce website  
+💻...  currently working on ecommerce website  
 💚💛💛: There are a lot of things I'd like to learn and try these days hehe
 
 **Princess Merida:**
