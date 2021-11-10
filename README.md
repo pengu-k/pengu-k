@@ -1,4 +1,4 @@
-## Hi, i'm krez😊
+## Hi, i'm khryzelle😊
 💻...  currently working on ecommerce website  
 💚💛💛: There are a lot of things I'd like to learn and try these days hehe
 
