@@ -8,7 +8,5 @@
     </div>
   </p>
   
-<p style="font-size: 30px;  font-weight: 500;">My Tech Stack</p>
-<p style="font-size: 20px;  font-weight: 500;">Application Dara</p>
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.stackshare.io/service/1209/javascript.jpeg)
+<pMy Tech Stack</p>
+ <img src="https://img.stackshare.io/service/1209/javascript.jpeg" width="10px " style="text-align:center" align="center">
