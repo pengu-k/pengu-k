@@ -7,3 +7,8 @@
       I'm a self-taught Front-End Developer currently studying Computer Science and Information and Technology Management at Univeristy of Auckland. <br>
     </div>
   </p>
+  
+<p style="font-size: 30px;  font-weight: 500;">My Tech Stack</p>
+<p style="font-size: 20px;  font-weight: 500;">Application Dara</p>
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.stackshare.io/service/1209/javascript.jpeg)
