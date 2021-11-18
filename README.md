@@ -4,10 +4,7 @@
     <h1 align="center" >Hi, i'm khryzelle😊</h1>
     <br>
     <div align="left">
-      I'm a self-taught Front-End Developer currently studying Computer Science and Information and Technology Management at Univeristy of Auckland. <br>
+      I'm a self-taught Front-End Developer currently studying Computer Science and Information and Technology Management at Univeristy of Auckland. I'm currently working on my portfolio <br>
     </div>
   </p>
   
-
-<h3>My Tech Stack</h3>
-<img src="https://img.stackshare.io/service/1209/javascript.jpeg" width="15px " style="text-align:center" align="center">
