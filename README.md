@@ -8,5 +8,6 @@
     </div>
   </p>
   
-My Tech Stack 
+
+<h3>My Tech Stack</h3>
 <img src="https://img.stackshare.io/service/1209/javascript.jpeg" width="15px " style="text-align:center" align="center">
