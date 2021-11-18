@@ -8,5 +8,6 @@
     </div>
   </p>
   
-<pMy Tech Stack</p>
- <img src="https://img.stackshare.io/service/1209/javascript.jpeg" width="10px " style="text-align:center" align="center">
+<p My Tech Stack >
+</p>
+ <img src="https://img.stackshare.io/service/1209/javascript.jpeg" width="15px " style="text-align:center" align="center">
