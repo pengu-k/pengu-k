@@ -4,7 +4,7 @@
     <h1 align="center" >Hi, i'm khryzelle😊</h1>
     <br>
     <div align="left">
-      I'm a self-taught Front-End Developer currently studying Computer Science and Information and Technology Management at University of Auckland. <br>
+      Hi there! I'm a self-taught Front-End Developer now shifting my focus toward Network Engineering. I recently deployed a Windows Server home lab to gain hands-on experience in networking, including system configuration, Active Directory        (AD) installation, DHCP setup, and more. <br>
     </div>
   </p>
   
